@@ -1,7 +1,7 @@
 # DouyuKeynote
 2015.12.20 在斗鱼 TV 上直播的Keynote，关于单元测试、自动化、发布、Travis、好用工具等
 
-40 Pages:
+## 40 Pages
 
 ![key1](https://cloud.githubusercontent.com/assets/5022872/11918556/56e8ea76-a771-11e5-8174-62841e201488.jpg)
 
@@ -11,7 +11,7 @@
 
 ![key5](https://cloud.githubusercontent.com/assets/5022872/11918577/172574d0-a772-11e5-8b90-07387dcdb536.jpg)
 
-etc.
+...
 
 # Credit
 
