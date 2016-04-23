@@ -3,7 +3,7 @@ Keynotes:
 * [WebSocket](#websocket)
 * [UnitTest](#UnitTest)
 
-欢迎交流，有问题请提 [issues](/issues)，看到后将尽快解答。
+欢迎交流，有问题请提 [issue](https://github.com/lzwjava/Keynotes/issues/new)，看到后将尽快解答。
 
 ## WebSocket
 
