@@ -1,7 +1,7 @@
 Keynotes:
 
-* [WebSocket](./#websocket)
-* [UniTest](./#UnitTest)
+* [WebSocket](#websocket)
+* [UnitTest](#UnitTest)
 
 ## WebSocket
 
