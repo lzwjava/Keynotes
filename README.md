@@ -19,6 +19,8 @@ Keynotes:
 
 ![qq20160423-5 2x](https://cloud.githubusercontent.com/assets/5022872/14762396/e1113086-09ab-11e6-9e93-2a8cc6d3fa7a.jpg)
 
+![](https://cloud.githubusercontent.com/assets/5022872/14763499/aa8d3ad2-09c9-11e6-9e2e-983d344e71a4.jpg)
+
 ![qq20160423-8 2x](https://cloud.githubusercontent.com/assets/5022872/14762524/221a864c-09af-11e6-9bd8-190c596bb0b9.jpg)
 
 ![qq20160423-3 2x](https://cloud.githubusercontent.com/assets/5022872/14762378/2eb853ec-09ab-11e6-9fd8-65b51f944c06.jpg)
