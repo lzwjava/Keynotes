@@ -1,9 +1,22 @@
 Keynotes:
 
+* [Git 高级操作和原理](#Git)
 * [WebSocket](#websocket)
 * [UnitTest](#unittest)
 
 欢迎交流，有问题请提 [issue](https://github.com/lzwjava/Keynotes/issues/new)，看到后将尽快解答。
+
+## Git
+2016.5.3 斗鱼直播
+
+![qq20160503-0 2x](https://cloud.githubusercontent.com/assets/5022872/14990617/f3886dc4-118f-11e6-93e6-094c778fe446.jpg)
+
+![qq20160502-0 2x](https://cloud.githubusercontent.com/assets/5022872/14990744/8ea8cd3a-1190-11e6-9e10-8d50e22286a5.jpg)
+
+![qq20160502-3 2x](https://cloud.githubusercontent.com/assets/5022872/14990828/0d79bfc0-1191-11e6-8008-f2de6287f5a9.jpg)
+
+![qq20160502-2 2x](https://cloud.githubusercontent.com/assets/5022872/14990614/f2dd76c6-118f-11e6-94c2-9cac2b917824.jpg)
+
 
 ## WebSocket
 
